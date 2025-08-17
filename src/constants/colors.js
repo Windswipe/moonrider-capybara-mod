@@ -18,20 +18,20 @@ const COLORS = {
 
 COLORS.schemes = {
   default: {
-    name: 'Super Medium',
+    name: "Capybara Mod",
     off: '#111',
-    primary: COLORS.RED,
-    primarybright: COLORS.BRIGHTRED,
-    secondary: COLORS.BLUE,
-    secondarybright: COLORS.BRIGHTBLUE,
-    tertiary: COLORS.YELLOW
+    primary: "#82461eff",
+    primarybright: "#82461eff",
+    secondary: COLORS.YELLOW,
+    secondarybright: COLORS.YELLOW,
+    tertiary: COLORS.RED
   },
 
   blue: {
     name: 'Star Warrior',
     off: '#111',
-    primary: '#1e4482',
-    primarybright: '#0B4BB3',
+    primary: '#001affff',
+    primarybright: '#00d9ffff',
     secondary: '#c27727',
     secondarybright: '#FFD840',
     tertiary: '#d7fdf9'
